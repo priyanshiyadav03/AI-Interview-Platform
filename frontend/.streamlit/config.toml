@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4F46E5"          # Indigo Blue (Buttons & Links)
+backgroundColor = "#F8FAFC"       # Clean Slate White (Background)
+secondaryBackgroundColor = "#F1F5F9" # Light Gray (Sidebar/Cards)
+textColor = "#0F172A"             # Dark Slate (Text)
+font = "sans serif"

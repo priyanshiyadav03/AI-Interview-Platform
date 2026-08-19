@@ -1,0 +1,27 @@
+# Job Description: Associate Python AI Engineer
+
+## Role Overview
+We are looking for a passionate Python AI Engineer to join our tech team. In this role, you will work on building intelligent backend applications, optimizing machine learning models, and designing data-driven AI systems.
+
+## Key Responsibilities
+* Write clean, maintainable, and efficient Python code for backend applications.
+* Build and maintain scalable AI pipelines using Large Language Models (LLMs) and Prompt Engineering.
+* Implement Retrieval-Augmented Generation (RAG) pipelines for enterprise document search.
+* Collaborate with data engineering teams to preprocess datasets and perform feature engineering.
+* Integrate machine learning models with RESTful APIs and microservices.
+
+## Required Skills & Technologies
+* Programming: Strong proficiency in Python.
+* Frameworks & Libraries: LangChain, PyTorch, NumPy, Pandas, Scikit-learn.
+* Databases & Tools: PostgreSQL, Git, Node.js, and REST API.
+* AI/ML Concepts: Fine-tuning, Embeddings, Statistics, and Vector Databases.
+
+## Soft Skills
+* Good communication skills and ability to present ideas clearly.
+* Strong teamwork mentality and collaborative problem-solving skills.
+* Adaptability and willingness to learn new technologies quickly.
+
+## Qualifications & Experience
+* Experience: 0–3 Years of relevant technical experience (Freshers with strong projects can also apply).
+* Education: Bachelor's degree (B.Tech or BCA) in Computer Science, Data Science, or a related field.
+* Project: Experience with at least one hands-on AI/ML or LLM-based academic project is highly preferred.
